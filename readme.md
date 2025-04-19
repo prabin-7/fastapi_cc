@@ -7,3 +7,5 @@ add database
 add more methods
 jwd tokens and authentication !!
 
+rename master to main:
+git branch -m master main
